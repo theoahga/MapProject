@@ -1,7 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-8d59dc4de5201274e310e4c54b9627a8934c3b88527886e3b421487c677d23eb.svg)](https://classroom.github.com/a/zNanO-Xw)
-<a name="readme-top"></a>
-
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
@@ -12,7 +8,7 @@
 <h1 align="center" style="font-weight:500">SmartEV</h1>
 
   <p align="center">
-    Map pour recherche d'itinéraire avec voiture électrique
+    Projet réalisé en cours de Technologies du web à CPE Lyon. Cette application web propose une recherche d'itinéraire pour véhicule électriques
     <br />
     <br />
   </p>
