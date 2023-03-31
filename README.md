@@ -115,7 +115,7 @@ Veuillez lancer un **cmd sous Windows** ou un **bash sous Linux** pour exécuter
     ```
 7. Cliquer sur le lien qui s'affiche au niveau du champ local dans votre terminal pour accéder à la page web
 
-img src="map-project/src/assets/linkprojectvue.png"/><
+img src="src/assets/linkprojectvue.png"/><
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,7 +126,7 @@ img src="map-project/src/assets/linkprojectvue.png"/><
 
 * Itinéraire entre 2 points comprenant le temps de recharge.
 
-<img src="map-project/src/assets/calculitineraire.png"/>
+<img src="src/assets/calculitineraire.png"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -149,10 +149,10 @@ img src="map-project/src/assets/linkprojectvue.png"/><
 
 Dans ce projet, l'un des points majeurs a été d'implémenter l'algorith de récherche des stations de rechargement dans l'itinéraire.
 
-<img src="map-project/src/assets/algo1.png"/>
+<img src="src/assets/algo1.png"/>
 
 Si la longueur de l'itinéraire est supérieur à l'autonomie de la voiture choisie, alors on détermine un point de recherche avec un marge (ici fixée à 75 km) puis on recherche la station la plus proche. Si le reste de l'itinéraire est toujours plus grand que l'autonomie alors on réitère l'operation jusqu'à obtenir un itinéraire possible
 
-<img src="map-project/src/assets/algo2.png"/>
+<img src="src/assets/algo2.png"/>
 
 
