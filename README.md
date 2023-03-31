@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/github_username/repo_name">
-    <img src="map-project/src/assets/icons8-electrical-96.png" alt="Logo" width="80" height="80">
+    <img src="src/assets/icons8-electrical-96.png" alt="Logo" width="80" height="80">
   </a>
 
 <h1 align="center" style="font-weight:500">SmartEV</h1>
