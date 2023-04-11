@@ -111,7 +111,7 @@ Veuillez lancer un **cmd sous Windows** ou un **bash sous Linux** pour exécuter
     ```
 7. Cliquer sur le lien qui s'affiche au niveau du champ local dans votre terminal pour accéder à la page web
 
-img src="src/assets/linkprojectvue.png"/><
+<img src="src/assets/linkprojectvue.png"/>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -141,7 +141,7 @@ img src="src/assets/linkprojectvue.png"/><
 
 
 
-### Algorith
+### Algorithme
 
 Dans ce projet, l'un des points majeurs a été d'implémenter l'algorith de récherche des stations de rechargement dans l'itinéraire.
 
