@@ -143,7 +143,7 @@ Veuillez lancer un **cmd sous Windows** ou un **bash sous Linux** pour exécuter
 
 ### Algorithme
 
-Dans ce projet, l'un des points majeurs a été d'implémenter l'algorith de récherche des stations de rechargement dans l'itinéraire.
+Dans ce projet, l'un des points majeurs a été d'implémenter l'algorithme de recherche des stations de rechargement dans l'itinéraire.
 
 <img src="src/assets/algo1.png"/>
 
